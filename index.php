@@ -17,7 +17,7 @@
               <div class="col-lg-6">
                 <div class="hero_content_wrap">
                   <h1 class="heading_text">
-                    Professional home health service providers
+                    Professional home health service provider of choice
                   </h1>
                   <p class="heading_description">
                     We provide individualized, compassionate, high-quality healthcare right to your doorstep. We are committed to providing the best care possible in the comfort of your own home.
