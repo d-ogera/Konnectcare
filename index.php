@@ -1,5 +1,5 @@
 <?php
-	$pagename = "Homepage";
+	$pagename = "Home";
 	require "static/head_start.php";
 	require "static/head_end.php";
 	require "static/header.php";
