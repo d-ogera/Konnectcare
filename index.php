@@ -4,13 +4,7 @@
 	require "static/head_end.php";
 	require "static/header.php";
 ?>
-
-      <!-- Main Body - Start
-      ================================================== -->
       <main class="page_content">
-
-        <!-- Hero Section - Start
-        ================================================== -->
         <section class="hero_section decoration_wrapper">
           <div class="container">
             <div class="row align-items-center">
@@ -96,11 +90,6 @@
             <img src="<?php echo $weburl;?>/assets/images/shapes/shape_leaf_left_top.svg" alt="<?php echo $webtag;?>">
           </div>
         </section>
-        <!-- Hero Section - End
-        ================================================== -->
-
-        <!-- Service Section - Start
-        ================================================== -->
         <section class="service_section section_space_lg bg_primary_light">
           <div class="container">
             <div class="section_heading text-center">
