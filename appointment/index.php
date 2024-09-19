@@ -4,13 +4,7 @@
 	require "../static/head_end.php";
 	require "../static/header.php";
 ?>
-
-      <!-- Main Body - Start
-      ================================================== -->
       <main class="page_content">
-
-        <!-- Page Banner - Start
-        ================================================== -->
         <section class="page_banner decoration_wrapper">
           <div class="container">
             <div class="row align-items-center">
